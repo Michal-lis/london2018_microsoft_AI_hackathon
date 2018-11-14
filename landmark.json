@@ -1,0 +1,108 @@
+{
+  'categories': [
+    {
+      'name': 'building_',
+      'score': 0.35546875,
+      'detail': {
+        'landmarks': [
+          {
+            'name': 'Philadelphia City Hall',
+            'confidence': 0.9852133393287659
+          }
+        ]
+      }
+    },
+    {
+      'name': 'outdoor_',
+      'score': 0.00390625,
+      'detail': {
+        'landmarks': [
+          {
+            'name': 'Philadelphia City Hall',
+            'confidence': 0.9852133393287659
+          }
+        ]
+      }
+    }
+  ],
+  'adult': {
+    'isAdultContent': False,
+    'isRacyContent': False,
+    'adultScore': 0.009454386308789253,
+    'racyScore': 0.011053870432078838
+  },
+  'color': {
+    'dominantColorForeground': 'Grey',
+    'dominantColorBackground': 'White',
+    'dominantColors': [
+      'Grey',
+      'White'
+    ],
+    'accentColor': '2E739D',
+    'isBwImg': False
+  },
+  'imageType': {
+    'clipArtType': 0,
+    'lineDrawingType': 0
+  },
+  'tags': [
+    {
+      'name': 'sky',
+      'confidence': 0.9997087121009827
+    },
+    {
+      'name': 'outdoor',
+      'confidence': 0.998325526714325
+    },
+    {
+      'name': 'day',
+      'confidence': 0.10068485885858536
+    },
+    {
+      'name': 'crowd',
+      'confidence': 0.008901218883693218
+    }
+  ],
+  'description': {
+    'tags': [
+      'outdoor',
+      'building',
+      'front',
+      'street',
+      'city',
+      'large',
+      'walking',
+      'boat',
+      'old',
+      'man',
+      'riding',
+      'church',
+      'sitting',
+      'people',
+      'light',
+      'driving',
+      'traffic',
+      'standing',
+      'group',
+      'water',
+      'parked',
+      'white',
+      'tower',
+      'sign',
+      'rug'
+    ],
+    'captions': [
+      {
+        'text': 'a group of people walking in front of Philadelphia City Hall',
+        'confidence': 0.9207237769882356
+      }
+    ]
+  },
+  'faces': [],
+  'requestId': '70b4d386-ce00-4fc2-93f0-25df44ad2d7e',
+  'metadata': {
+    'width': 1600,
+    'height': 1067,
+    'format': 'Jpeg'
+  }
+}

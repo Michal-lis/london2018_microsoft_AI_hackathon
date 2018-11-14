@@ -1,0 +1,83 @@
+{
+  'categories': [],
+  'adult': {
+    'isAdultContent': False,
+    'isRacyContent': False,
+    'adultScore': 0.07360070198774338,
+    'racyScore': 0.06516020745038986
+  },
+  'color': {
+    'dominantColorForeground': 'Black',
+    'dominantColorBackground': 'Black',
+    'dominantColors': [
+      'Black'
+    ],
+    'accentColor': '4E5B18',
+    'isBwImg': False
+  },
+  'imageType': {
+    'clipArtType': 0,
+    'lineDrawingType': 0
+  },
+  'tags': [
+    {
+      'name': 'animal',
+      'confidence': 0.9839352369308472
+    },
+    {
+      'name': 'outdoor',
+      'confidence': 0.9357073307037354
+    },
+    {
+      'name': 'mammal',
+      'confidence': 0.8852969408035278,
+      'hint': 'animal'
+    },
+    {
+      'name': 'wolf',
+      'confidence': 0.5015095472335815,
+      'hint': 'animal'
+    },
+    {
+      'name': 'big cat',
+      'confidence': 0.45545467734336853,
+      'hint': 'animal'
+    },
+    {
+      'name': 'wild dog',
+      'confidence': 0.1903115063905716,
+      'hint': 'animal'
+    }
+  ],
+  'description': {
+    'tags': [
+      'animal',
+      'outdoor',
+      'mammal',
+      'standing',
+      'brown',
+      'dog',
+      'looking',
+      'small',
+      'sitting',
+      'eating',
+      'white',
+      'large',
+      'cat',
+      'branch'
+    ],
+    'captions': [
+      {
+        'text': 'a dog standing on a branch',
+        'confidence': 0.6175185963526131
+      }
+    ]
+  },
+  'faces': [],
+  'requestId': 'd7bb9942-cf2d-4fd4-aaa9-db26b0d3b213',
+  'metadata': {
+    'width': 333,
+    'height': 500,
+    'format': 'Jpeg'
+  }
+}

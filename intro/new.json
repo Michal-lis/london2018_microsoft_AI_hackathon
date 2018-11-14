@@ -1,0 +1,63 @@
+{
+  'categories': [
+    {
+      'name': 'abstract_',
+      'score': 0.00390625
+    },
+    {
+      'name': 'others_',
+      'score': 0.0390625
+    },
+    {
+      'name': 'outdoor_',
+      'score': 0.00390625,
+      'detail': {
+        'landmarks': []
+      }
+    },
+    {
+      'name': 'text_sign',
+      'score': 0.4140625
+    }
+  ],
+  'adult': {
+    'isAdultContent': False,
+    'isRacyContent': False,
+    'adultScore': 0.03442978858947754,
+    'racyScore': 0.03493906185030937
+  },
+  'color': {
+    'dominantColorForeground': 'Black',
+    'dominantColorBackground': 'Black',
+    'dominantColors': [
+      'Black'
+    ],
+    'accentColor': '007D7D',
+    'isBwImg': False
+  },
+  'imageType': {
+    'clipArtType': 0,
+    'lineDrawingType': 0
+  },
+  'tags': [],
+  'description': {
+    'tags': [
+      'shirt',
+      'drawing',
+      'food'
+    ],
+    'captions': [
+      {
+        'text': 'a drawing of a person',
+        'confidence': 0.3655921224806171
+      }
+    ]
+  },
+  'faces': [],
+  'requestId': '66d6fe1a-771d-4105-8200-fa3c9e58e1d7',
+  'metadata': {
+    'width': 1024,
+    'height': 1024,
+    'format': 'Png'
+  }
+}

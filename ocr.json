@@ -1,0 +1,103 @@
+{
+  'categories': [
+    {
+      'name': 'others_',
+      'score': 0.00390625
+    },
+    {
+      'name': 'outdoor_',
+      'score': 0.0234375,
+      'detail': {
+        'landmarks': [
+          {
+            'name': 'Col du Tourmalet',
+            'confidence': 0.9180974960327148
+          }
+        ]
+      }
+    },
+    {
+      'name': 'outdoor_mountain',
+      'score': 0.5234375,
+      'detail': {
+        'landmarks': [
+          {
+            'name': 'Col du Tourmalet',
+            'confidence': 0.9180974960327148
+          }
+        ]
+      }
+    }
+  ],
+  'adult': {
+    'isAdultContent': False,
+    'isRacyContent': False,
+    'adultScore': 0.00867178849875927,
+    'racyScore': 0.010310613550245762
+  },
+  'color': {
+    'dominantColorForeground': 'Grey',
+    'dominantColorBackground': 'Grey',
+    'dominantColors': [
+      'Grey',
+      'White'
+    ],
+    'accentColor': '335B99',
+    'isBwImg': False
+  },
+  'imageType': {
+    'clipArtType': 0,
+    'lineDrawingType': 0
+  },
+  'tags': [
+    {
+      'name': 'sky',
+      'confidence': 0.9997391104698181
+    },
+    {
+      'name': 'outdoor',
+      'confidence': 0.9908902049064636
+    }
+  ],
+  'description': {
+    'tags': [
+      'outdoor',
+      'man',
+      'people',
+      'sitting',
+      'ramp',
+      'group',
+      'trick',
+      'riding',
+      'side',
+      'doing',
+      'jumping',
+      'standing',
+      'mountain',
+      'parked',
+      'hill',
+      'bridge',
+      'air',
+      'walking',
+      'water',
+      'dirt',
+      'flying',
+      'white',
+      'sign',
+      'track'
+    ],
+    'captions': [
+      {
+        'text': 'a group of people sitting on the side of a ramp with Col du Tourmalet in the background',
+        'confidence': 0.7942483020173259
+      }
+    ]
+  },
+  'faces': [],
+  'requestId': 'e0624071-9723-42b8-bc14-fcac09129a40',
+  'metadata': {
+    'width': 512,
+    'height': 384,
+    'format': 'Jpeg'
+  }
+}

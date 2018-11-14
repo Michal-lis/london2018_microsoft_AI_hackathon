@@ -1,0 +1,56 @@
+{
+  "APP_TITLE": "User Demo Client - v1.9.3",
+
+  "DEFAULT_GAME_TYPE_ID": 0,
+
+  "NULL_GAME_TYPE_ID": 0,
+  "BATTLESHIPS_GAME_TYPE_ID": 51,
+  "NOUGHTS_AND_CROSSES_GAME_TYPE_ID": 53,
+  "TRAVELLING_SALESDRONE_GAME_TYPE_ID": 54,
+  "PREDICTIVE_TEXT_GAME_TYPE_ID": 56,
+  "TWIST_CUBE_GAME_TYPE_ID": 57,
+  "SLIDING_PUZZLE_GAME_TYPE_ID": 58,
+  "BLURRY_WORD_GAME_TYPE_ID": 59,
+  "MASTERMIND_GAME_TYPE_ID": 60,
+  "WAREHOUSE_LOGISTICS_GAME_TYPE_ID": 61,
+  "FOUR_IN_A_ROW_GAME_TYPE_ID": 65,
+  "WHO_IS_WHO_GAME_TYPE_ID": 66,
+  "REVERSING_STONES_GAME_TYPE_ID": 67,
+  "CHECKERS_GAME_TYPE_ID": 69,
+  "GO_GAME_TYPE_ID": 70,
+  "LEXICO_GAME_TYPE_ID": 71,
+  "DOMINOES_GAME_TYPE_ID": 72,
+
+  "BATTLESHIPS_GAME_STYLE_LISTBOX_TEXT": "{0} | Stake {1} | {2} | Board: {3} | {4}ms | Deals {5} | Percent Land {6} | RandLand {7}",
+  "NOUGHTS_AND_CROSSES_GAME_STYLE_LISTBOX_TEXT": "{0} | Stake {1} | {2} games | {3}ms",
+  "TRAVELLING_SALESDRONE_GAME_STYLE_LISTBOX_TEXT": "{0} | Stake {1} | {2} cities | {3}ms",
+  "PREDICTIVE_TEXT_GAME_STYLE_LISTBOX_TEXT": "{0} | Stake {1} | {2} sentences | Switched words: {3} | {4}ms",
+  "TWIST_CUBE_GAME_STYLE_LISTBOX_TEXT": "{0} | Stake {1} | {2}x{2}x{2} | {3}ms",
+  "SLIDING_PUZZLE_GAME_STYLE_LISTBOX_TEXT": "{0} | Stake {1} | {2}x{3} | {4}ms",
+  "BLURRY_WORD_GAME_STYLE_LISTBOX_TEXT": "{0} | Stake {1} | {2} images | {3}ms",
+  "MASTERMIND_GAME_STYLE_LISTBOX_TEXT": "{0} | Stake {1} | {2} pegs | {3} colours | Duplicates: {4}",
+  "WAREHOUSE_LOGISTICS_GAME_STYLE_LISTBOX_TEXT": "{0} | Stake {1} | Warehouse: {2}x{3}",
+  "FOUR_IN_A_ROW_GAME_STYLE_LISTBOX_TEXT": "{0} | Stake {1} | Size: {2}x{3} | {4} connections",
+  "WHO_IS_WHO_GAME_STYLE_LISTBOX_TEXT": "{0} | Stake {1} | {2} characters | Comparisons: {3}",
+  "REVERSING_STONES_GAME_STYLE_LISTBOX_TEXT": "{0} | Stake {1} | {2}x{3} | Holes: {4} | {5}ms",
+  "CHECKERS_GAME_STYLE_LISTBOX_TEXT": "{0} | Stake {1} | {2}x{3} | {4}ms",
+  "GO_GAME_STYLE_LISTBOX_TEXT": "{0} | Stake {1} | {2}x{3} | Rules: {4} | {5}ms",
+  "LEXICO_GAME_STYLE_LISTBOX_TEXT": "{0} | Stake {1} | {2}x{3} | Multipliers: {4} | {5}ms",
+  "DOMINOES_GAME_STYLE_LISTBOX_TEXT": "{0} | Stake {1} | {2} spots | {3}ms",
+
+  "BASE_URL": "https://19y3lnjoy9.execute-api.eu-west-2.amazonaws.com/prod/",
+  "GET_LIST_OF_GAME_STYLES_EXTENSION": "GM-GetListOfGameStyles",
+  "OFFER_GAME_EXTENSION": "GM-OfferGame",
+  "POLL_FOR_GAME_STATE_EXTENSION": "GM-PollForGameState",
+  "MAKE_MOVE_EXTENSION": "GM-MakeMove",
+  "CANCEL_GAME_OFFER_EXTENSION": "GM-CancelGameOffer",
+
+  "COMBOBOX_INDEX": [
+                      ["Battleships", 51], ["Noughts and Crosses", 53], ["Travelling Salesdrone", 54], ["Predictive Text Game", 56],
+                      ["Twist Cube Game", 57], ["Sliding Puzzle Game",58], ["Blurry Word Game", 59], ["Mastermind", 60],
+                      ["Warehouse Logistics", 61], ["Four in a Row", 65], ["Who's Who", 66], ["Reversing Stones", 67], ["Checkers", 69],
+                      ["Go", 70], ["Lexico", 71], ["Dominoes", 72]
+                    ],
+
+  "AVAILABLE_OPPONENTS": ["", "housebot-practise", "housebot-competition", "housebot-master"]
+}
