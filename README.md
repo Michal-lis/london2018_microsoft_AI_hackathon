@@ -14,5 +14,3 @@ The platform for commumincating with the game was provided.
 Code for the game is written in tournament.py script.
 
 ![Screenshot](images/game_overview.png)
-
-The bot is not very intelligent as during the tournament it went only through the first stage of playoffs, but the event was a good occasion to get some practice with Azure AI API and the way game bots work.
